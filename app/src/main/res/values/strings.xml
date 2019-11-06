@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XO Game</string>
+    <string name="image_description">Spot</string>
+    <string name="btn_playAgain">Play Again !</string>
+</resources>
